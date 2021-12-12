@@ -1,7 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.10;
 
-
+/* */
+/* */
 interface ERC20Interface {
   // Standard ERC-20 interface.
   function transfer(address to, uint256 value) external returns (bool); // found
