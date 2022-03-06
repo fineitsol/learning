@@ -1,0 +1,19 @@
+.container {
+    /* background-color: rgb(163, 164, 228); */
+    /* width: 800px; */
+    margin: auto;
+}
+#employeesArea {
+    background-color: rgb(207, 221, 181);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+}
+#employeesDetailsArea {
+    background-color: rgb(210, 181, 221);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+}
